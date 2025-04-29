@@ -10,6 +10,17 @@
   height: 150vh;
 }
 
+nav{
+  background-color: black;
+  position: sticky;
+  margin-bottom: 50px;
+}
+
+nav>img{
+  width: 100px;
+  height: 100px;
+}
+
 h1{
   margin-bottom: 30px;
 }
